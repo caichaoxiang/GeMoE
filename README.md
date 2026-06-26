@@ -6,7 +6,7 @@ This repository is the official implementation of the paper:
 
 ***"Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models"***
 
-- [arxiv](coming soon!)
+- [arxiv](https://arxiv.org/pdf/2606.26287)
 
 ## News and ToDo List
 
